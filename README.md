@@ -38,7 +38,7 @@ Sim, o código é open-source e você pode utilizá-lo sem restrições.
 ## Projetos Relacionados
 
 - [Chatbot para Twitch](https://github.com/lucas-henr/Chatbot_twith): Um chatbot para streamers interagirem com seus espectadores durante lives.
-- [Portfólio Pessoal](https://portfolio-lucax.vercel.app): Meu portfólio online com outros projetos e informações sobre mim.
+- [Site EAD](https://github.com/lucas-henr/Site-EAD): Um protótipo de site de Educação a Distância para aprendizado de Front-End.
 
 ---
 
@@ -50,3 +50,4 @@ Sim, o código é open-source e você pode utilizá-lo sem restrições.
 ---
 
 Obrigado por visitar este projeto! 🚀
+
