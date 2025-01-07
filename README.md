@@ -1,36 +1,52 @@
+# Site com Links Úteis
 
-# Site com links uteis 
+Este projeto é um site simples criado para organizar e exibir links úteis em uma página. Ele foi desenvolvido como parte do aprendizado e prática de habilidades em **CSS** e design web.
 
-Um site criado para testar minhas habilidades com CSS onde mostra links uteis dentro de uma pagina
-
-
+---
 
 ## Autores
 
 - [@LucaxDev](https://www.instagram.com/lucaxdev/)
 
+---
 
-## Demonstração
+## Como Contribuir
 
-![Site foto](https://cdn.discordapp.com/attachments/861039162990788609/1202813303269629952/image.png)
+Contribuições são bem-vindas! Se você deseja ajudar a melhorar este projeto, siga estas etapas:
 
+1. Faça um fork do repositório.
+2. Crie uma branch para sua contribuição (`git checkout -b feature/nome-da-feature`).
+3. Faça as alterações necessárias e commit (`git commit -m "Descrição das mudanças"`).
+4. Envie o pull request para revisão.
+
+Se tiver dúvidas, abra uma issue no repositório. Sua colaboração será muito apreciada!
+
+---
 
 ## FAQ
 
-#### É possivel editar o mesmo pelo proprio site?
+#### É possível editar os links diretamente pelo site?
 
-Não, esse site foi criado somente para testar minha habilidades em css.
+Não, este site foi desenvolvido como um protótipo para testar habilidades em CSS e não possui funcionalidade para edição direta.
 
-#### O codigo está totalmente aberto?
+#### O código está totalmente aberto?
 
-Sim, vocês podem usar ele sem problema nenhum!
+Sim, o código é open-source e você pode utilizá-lo sem restrições.
 
-## Veja também!
+---
 
-Chat bot para streamers da twich ultilizarem em lives, onde os espectadores podem interagir com o bot.
+## Projetos Relacionados
 
-[Chat bot](https://github.com/lucas-henr/Chatbot_twith)
+- [Chatbot para Twitch](https://github.com/lucas-henr/Chatbot_twith): Um chatbot para streamers interagirem com seus espectadores durante lives.
+- [Portfólio Pessoal](https://portfolio-lucax.vercel.app): Meu portfólio online com outros projetos e informações sobre mim.
 
-Veja meu PortFolio abaixo.
+---
 
-[PortFolio](https://portfolio-lucax.vercel.app)
+## Contato
+
+📧 **E-mail**: facillucas123@gmail.com  
+🌐 **GitHub**: [Lucas Henrique](https://github.com/lucas-henr)
+
+---
+
+Obrigado por visitar este projeto! 🚀
